@@ -1,6 +1,6 @@
 # Sockets!
 
-Basic communication between a client and a server machine. You can replicate it by using two VMs: one as a client and the other as a server.
+Basic communication between a client and a server machine with a TCP connection. You can replicate it by using two VMs: one as a client and the other as a server.
 
 ## Instruccions
 1. Run TCPServer in the machine that performs as a server: 
