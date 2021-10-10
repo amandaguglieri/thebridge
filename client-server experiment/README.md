@@ -11,4 +11,6 @@ Basic communication between a client and a server machine with a TCP connection.
 ## What is for
 The program that runs in the server capitalizes the string entered in the client side.
 
+## Wireshark
+sockets_TPC.pcapng file captures traffic of a test.
 
